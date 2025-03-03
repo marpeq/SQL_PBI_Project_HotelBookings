@@ -14,11 +14,11 @@ Key Visualizations
 Files in This Repository
 - HotelBookings.pbix – Power BI report
 - CreateTables_SQL_script.sql – PostgreSQL script used to create the database tables used in PBI. Created using the tables in the CSV files
-- hotel_revenue_2018.csv – Revenue data for 2018
-- hotel_revenue_2019.csv – Revenue data for 2019
-- hotel_revenue_2020.csv – Revenue data for 2020
-- hotel_revenue_market_segment.csv – Revenue categorized by market segment
-- hotel_revenue_meal_cost.csv – Revenue categorized by meal cost
+- hotel_revenue_2018.csv – cvs data file with 2018 table
+- hotel_revenue_2019.csv – cvs data file with 2019 table
+- hotel_revenue_2020.csv – cvs data file with 2020 table
+- hotel_revenue_market_segment.csv – cvs data file with market segment table
+- hotel_revenue_meal_cost.csv – cvs data file with meal cost table
 
 How to Use This Project
 1. Upload the CSV files into a PostgreSQL database.

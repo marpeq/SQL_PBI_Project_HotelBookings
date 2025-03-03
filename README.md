@@ -1,6 +1,8 @@
 # SQL_PBI_Project_HotelBookings
 SQL/PowerBI Beginner Project - Hotel booking data analysis
 
+![Captura de ecrã 2025-03-03 161342](https://github.com/user-attachments/assets/bc0df2d2-c6ea-403d-bbf9-12a716768c9e)
+
 This Power BI project analyzes hotel revenue, average daily rates, guest counts, and parking requirements over time for two hotels. The data spans 2018 to 2020.
 
 Key Visualizations
@@ -25,5 +27,5 @@ How to Use This Project
 4. Load HotelBookings.pbix in Power BI.
 5. Explore the visualizations.
 
-![Captura de ecrã 2025-03-03 161342](https://github.com/user-attachments/assets/bc0df2d2-c6ea-403d-bbf9-12a716768c9e)
+
 
